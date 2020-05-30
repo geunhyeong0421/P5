@@ -8,7 +8,7 @@
 
 프론트엔드 - 프로필, 숙소 사진 관련 AJAX, 예약날짜 차단 관련 calendar.js의 AJAX, 호스트 등록(수정) 관련 host.js파일 
 
-![슬라이드1](https://user-images.githubusercontent.com/65955752/83327261-67a70200-a2b5-11ea-88d4-f614cfd0421a.JPG)
+![슬라이드1](https://user-images.githubusercontent.com/65955752/83328054-61b41f80-a2bb-11ea-812c-0505cd630db2.jpg)
 ![슬라이드2](https://user-images.githubusercontent.com/65955752/83327263-683f9880-a2b5-11ea-806c-bada2088316a.JPG)
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
