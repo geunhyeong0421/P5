@@ -2,9 +2,12 @@
 파이널 프로젝트
 ![백엔드](https://user-images.githubusercontent.com/65955752/82902344-4931c580-9f9a-11ea-8ae4-373453220155.PNG)
 
-백엔드 - host, member
+DB설계(100%)
 
-개발환경 구축 - Spring MVC Maven 설정 파일(root-context.xml, servlet-context.xml), AWS RDS
+백엔드 - host(100%),
+         member(100%)
+
+개발환경 구축(100%) - Spring 설정(xml), AWS RDS
 
 프론트엔드 - 프로필, 숙소 사진 관련 AJAX, 예약날짜 차단 관련 calendar.js의 AJAX, 호스트 등록(수정) 관련 host.js파일 
 
